@@ -1,6 +1,5 @@
 import React, { useLayoutEffect, useState } from "react";
-import { Chessboard, Square } from "react-chessboard";
-import GameSession from "../../lib/session";
+import { Chessboard } from "react-chessboard";
 import { useInitialEffect } from "../../lib/utils";
 import "./board.css";
 

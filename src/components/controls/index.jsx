@@ -1,5 +1,4 @@
 import React from "react";
-import GameSession from "../../lib/session";
 import "./controls.css";
 
 function Controls({ game }) {
